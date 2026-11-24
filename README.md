@@ -48,7 +48,7 @@ India).
 
 ## Verification
 
-- `python3 draw.py` → `entry.png` 1024×1024, 135,068 bytes, visually
+- `python3 draw.py` → `entry.png` 1024×1024, 135,060 bytes, visually
   checked: every headline and summary sits inside its panel, no clipped or
   garbled text, date legible in the masthead. Re-run gives the identical
   SHA-256.

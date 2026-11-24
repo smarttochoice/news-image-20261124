@@ -94,7 +94,7 @@ block(d, tx, hy + 162,
       "Nvidia's board unanimously reinstates Jensen Huang as chief "
       "executive after an inquiry. Shares jump more than 30%.",
       s(24), hw - (tx - hx) - 24, leading=31)
-d.text((tx, hy + 250), "Biggest one-day gain since 2003.", font=bb(20),
+d.text((tx, hy + 258), "Biggest one-day gain since 2003.", font=bb(20),
        fill=CRIMSON)
 
 # ---- story grid ----------------------------------------------------------
